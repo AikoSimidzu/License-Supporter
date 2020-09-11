@@ -1,6 +1,7 @@
 # License-Supporter
 License Supporter
 
+# PHP 7.1
 
 Made to quickly add a licensing system to your software.
 
