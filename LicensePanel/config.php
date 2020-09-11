@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$user = "mysql";
-$pass = "mysql";
-$bdn = "license";
+$user = "bd_user";
+$pass = "bd_password";
+$bdn = "bd_name";
 
 $mysqli = mysqli_connect($host, $user, $pass, $bdn);
 
